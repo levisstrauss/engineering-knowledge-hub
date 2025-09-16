@@ -3,6 +3,7 @@ import { Header } from "@/components/header";
 import {HeroSection} from "@/components/hero-section";
 import {FeaturedArticles} from "@/components/featured-articles"
 import {CategoriesSection} from "@/components/categories-section"
+import { LatestPosts } from "@/components/latest-posrts";
 
 
 export default function HomePage() {
@@ -14,6 +15,7 @@ export default function HomePage() {
             <HeroSection />
             <FeaturedArticles />
             <CategoriesSection />
+            <LatestPosts />
         </main>
     </div>
   );
