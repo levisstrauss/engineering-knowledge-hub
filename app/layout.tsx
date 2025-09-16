@@ -7,6 +7,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Suspense } from "react"
 import "./globals.css"
 
+import { Toaster } from "sonner"
+
 
 export const metadata: Metadata = {
     title: "Engineering Insights | Modern Tech Blog",
@@ -39,6 +41,7 @@ export default function RootLayout({
         <Suspense fallback={null}>
             <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
                 {children}
+                <Toaster />
             </ThemeProvider>
         </Suspense>
         <Analytics />
