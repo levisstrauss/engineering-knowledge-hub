@@ -14,7 +14,7 @@
 
 ### 🎨 **Modern Design & UX**
 - Premium, clean interface with dark/light mode toggle
-- Fully responsive design optimized for all devices
+- Fully responsive design optimized for all devices  
 - Glass morphism effects and smooth micro-interactions
 - Accessible design following WCAG 2.1 AA standards
 - Optimized typography with custom font loading
@@ -119,7 +119,7 @@
 This blog represents the intersection of academic rigor and practical application. Every article is crafted to provide:
 
 - **Actionable insights** you can implement immediately
-- **Production-ready code** tested in real-world scenarios
+- **Production-ready code** tested in real-world scenarios  
 - **Architectural wisdom** gained from building scalable systems
 - **Forward-thinking analysis** of emerging technologies
 
