@@ -38,6 +38,7 @@
     --sidebar-ring: oklch(0.705 0.015 286.067); /* rgba(139, 92, 246, 0.5) */
     --background: oklch(1 0 0);
     --foreground: oklch(0.141 0.005 285.823);
+    --custom-dark: #0E1520;
 
 }
 
